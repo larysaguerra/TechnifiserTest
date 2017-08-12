@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sushi App</string>
+    <string name="test">Prueba Technifiser</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_about_us">About us</string>
+    <string name="accept">Aceptar</string>
+    <string name="welcome">Bienvenido, continúe y disfrute de los mejores lugares de sushi.</string>
+    <string name="need_permission">Para continuar debe conceder permisos de ubicación.</string>
+    <string name="grant">Conceder</string>
+    <string name="continuea">Continuar</string>
+    <string name="result_not_found">No se contraron resultados</string>
+    <string name="result_restaurants_found">Restaurants</string>
+    <string name="wait_search">Por favor, espera estamos buscando restaurantes de sushi …</string>
+    <string name="wait">Por favor, espera…</string>
+    <string name="error_open_map">Error al abrir google maps</string>
+    <string name="error_location">Tu ubicación actual no está disponible.</string>
+    <string name="description">La aplicación muestra restaurantes de sushi alrededor de la ubicación actual.</string>
+    <string name="copyright">Desarrollado por Larysa Guerra 2017.</string>
+    <string name="contact">\@Larysa__90</string>
+    <string name="about_app">About us</string>
+    <string name="sushi">SUSHI</string>
+    <string name="address">Dirección: </string>
+    <string name="distance">Distancia: </string>
+    <string name="go">Ir</string>
+    <string name="error_connection">Error connection.</string>
+</resources>

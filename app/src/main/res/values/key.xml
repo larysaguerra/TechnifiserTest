@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="foursquare_version" templateMergeStrategy="preserve" translatable="false">
+        20170101
+    </string>
+    <string name="foursquare_client_id" templateMergeStrategy="preserve" translatable="false">
+        L2XY0AP2GZSK5ZRMBGD4CJYVNEW2EV4QUYP3XNRFAPMY4BXF
+    </string>
+    <string name="foursquare_client_secret" templateMergeStrategy="preserve" translatable="false">
+        PGLWK12XQKQXL3Y11RYOLWLV0IVBW1EVMFRI0UNNJQUG0ECT
+    </string>
+    <string name="profile" templateMergeStrategy="preserve" translatable="false">
+        https://www.linkedin.com/in/larysaguerra/
+    </string>
+</resources>
